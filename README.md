@@ -83,6 +83,11 @@ Model | Model name + weights | IN1k 224px finetuned
 --- | --- | ---
 ViT-2B | [vit_2b14](https://dl.fbaipublicfiles.com/maws/pretrain/mae_in1k/vit_2b14.pt) | 87.4
 
+### MAE pretrained on ImageNet-21k
+
+Model | Model name + weights | IN1k 512px finetuned
+--- | --- | ---
+ViT-L | [vit_l16](https://dl.fbaipublicfiles.com/maws/pretrain/mae_in21k/vit_l16.pt) | 86.9
 
 ## Zero-shot evaluation on ImageNet-1k
 
